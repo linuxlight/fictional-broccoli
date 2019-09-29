@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -1157,7 +1157,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 
 .col-padding {
-  padding: 10px !important;
+  /*padding: 10px !important; */
 }
 
 .js .animate-box {
