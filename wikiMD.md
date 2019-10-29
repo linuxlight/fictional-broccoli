@@ -13,6 +13,7 @@
 
 ***
 ![animated_pic](https://en.wikipedia.org/wiki/File:Streaklines_and_pathlines_animation_(low).gif)
+<img src="https://en.wikipedia.org/wiki/File:Streaklines_and_pathlines_animation_(low).gif" width="50%">
 
 + *Streakline*과 하나의 입자가 동시에 두 개 이상의 속도를 가질 수 없기에 교차가 불가능.  
 + *Streamline*은 두 개 이상의 입자가 동시에 한 점에 존재할 수 없기에 교차가 불가능.  
