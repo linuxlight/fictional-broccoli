@@ -2,6 +2,8 @@
 
 ***
 
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Streaklines_and_pathlines_animation_%28low%29.gif" alt="animated_pic"></img></p> 
+
 **Pathline** : 입자 하나의 궤적  
 **S 형제들** : 입자 여러개의 순간 집합  
 >+ **Streakline** : 입자 여러개를 순간적으로 이은 선
@@ -12,8 +14,6 @@
 **S 형제들** : 한 방에 사진찍듯이 관측가능.  
 
 ***
-![animated_pic](https://en.wikipedia.org/wiki/File:Streaklines_and_pathlines_animation_(low).gif)
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Streaklines_and_pathlines_animation_%28low%29.gif" width="50%">
 
 + *Streakline*과 하나의 입자가 동시에 두 개 이상의 속도를 가질 수 없기에 교차가 불가능.  
 + *Streamline*은 두 개 이상의 입자가 동시에 한 점에 존재할 수 없기에 교차가 불가능.  
