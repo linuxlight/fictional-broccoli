@@ -64,7 +64,23 @@
 	<![endif]-->
 
 	<style>
-	#content-box {height : 100vh; width:100%}
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+
+	#content-box {
+		height : 100vh; width:100%
+		}
 	</style>
 
 	</head>
@@ -101,7 +117,7 @@
 					<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">Contents</h2>
 				<div class="row row-bottom-padded-md" >
 					<div class="animate-box" data-animate-effect="fadeInLeft">
-						<object data="wikiMD.html" type="text/html" id="content-box"></object>
+						<object class="markdown-body" data="wikiMD.html" type="text/html" id="content-box"></object>
 					</div>
 				</div>
 			</div>
