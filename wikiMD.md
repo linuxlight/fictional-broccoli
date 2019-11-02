@@ -2,7 +2,7 @@
 
 ***
 
-<div class="polaroid" style="margin : auto;">
+<div class="polaroid" style="margin : auto; margin-bottom : 30px; text-align: center;" >
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Streaklines_and_pathlines_animation_%28low%29.gif" alt="animated_pic"></img>
   <div class="container">
   <p style="color : red;"><b>빨간선</b> : pathline</p>
