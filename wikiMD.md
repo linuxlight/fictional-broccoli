@@ -7,8 +7,8 @@
 <div class="polaroid">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Streaklines_and_pathlines_animation_%28low%29.gif" alt="animated_pic" style="width:100%"></img>
   <div class="container">
-  <p>**빨간선** : pathline  
-**파란선** : streakline  
+  <p><b style="color : red;">빨간선</b> : pathline\n
+<b style=""파란선</b>: streakline\n
 **점선** : streamline</p>
   </div>
 </div>
