@@ -2,7 +2,18 @@
 
 ***
 
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Streaklines_and_pathlines_animation_%28low%29.gif" alt="animated_pic"></img></p> 
+<p align="center">
+
+<div class="polaroid">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Streaklines_and_pathlines_animation_%28low%29.gif" alt="animated_pic" style="width:100%"></img>
+  <div class="container">
+  <p>**빨간선** : pathline  
+**파란선** : streakline  
+**점선** : streamline</p>
+  </div>
+</div>
+
+</p> 
 
 **Pathline** : 입자 하나의 궤적  
 **S 형제들** : 입자 여러개의 순간 집합  
