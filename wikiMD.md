@@ -34,5 +34,5 @@
 
 
 ***
-Referenced from <a href="https://en.wikipedia.org/wiki/Streamlines,_streaklines,_and_pathlines" target="_blank">Wikipedia</a>  
+Referenced from <a href="https://en.wikipedia.org/wiki/Streamlines,_streaklines,_and_pathlines" target="_blank"> <i class="fab fa-wikipedia-w"></i> Wikipedia</a>  
 Content is available under <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank">CC BY-SA 3.0</a> unless otherwise noted.
