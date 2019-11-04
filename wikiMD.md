@@ -35,4 +35,4 @@
 
 ***
 Referenced from <a href="https://en.wikipedia.org/wiki/Streamlines,_streaklines,_and_pathlines" target="_blank"> <i class="fab fa-wikipedia-w"></i> Wikipedia</a>  
-Content is available under <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank">CC BY-SA 3.0</a> unless otherwise noted.
+Content is available under <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank"> <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i><i class="fab fa-creative-commons-sa"></i> CC BY-SA 3.0</a> unless otherwise noted.
